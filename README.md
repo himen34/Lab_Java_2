@@ -18,8 +18,8 @@ To run this project, you need to have [Maven](https://maven.apache.org/) install
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/himen34/Java_Lab_1.git
-cd Java_Lab_1
+git clone https://github.com/himen34/Java_Lab_2.git
+cd Java_Lab_2
 ```
 
 ### 2. Build the project (this will also run unit tests):
